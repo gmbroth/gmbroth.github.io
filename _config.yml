@@ -1,10 +1,6 @@
-name: My Site
+title: My Site
 # theme: minimal
-description: "This research project develops training materials for reseachers wanting to learn to build project
-websites in GitHub with GitHub Pages."
+description: "This research project develops training materials for reseachers wanting to learn to build project websites in GitHub with GitHub Pages."
 email: "team@carpentries.org"
 remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 
